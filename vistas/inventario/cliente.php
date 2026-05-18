@@ -2,8 +2,8 @@
 
 <div class="d-flex justify-content-between mb-3">
     <div>
-        <a href="index.php?m=listar" class="btn btn-primary">Volver</a>
-        <a href="index.php?m=registrar" class="btn btn-success">Registrar cliente</a>
+        <a href="index.php?m=dashboard" class="btn btn-primary">Volver</a>
+        <a href="index.php?m=formulario_cliente" class="btn btn-success">Registrar cliente</a>
     </div>
     <a href="index.php?m=logout" class="btn btn-danger">Salir</a>
 </div>

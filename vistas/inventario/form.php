@@ -5,7 +5,7 @@
     <h3 class="title">Registrar Producto</h3>
 
     <div>
-         <a href="index.php?m=clientes" class="btn btn-primary">Registrar Usuario</a>
+         <a href="index.php?m=formulario_cliente" class="btn btn-primary">Registrar Usuario</a>
         <a href="index.php?m=listar" class="btn btn-primary">Lista</a>
         <a href="index.php?m=logout" class="btn btn-danger">Cerrar sesión</a>
     </div>

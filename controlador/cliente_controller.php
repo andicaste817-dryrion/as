@@ -10,7 +10,7 @@ class cliente_controller extends BaseController {
         $this->model = new cliente_model();
     }
      public function formulario(){
-        $this->view('inventario/registro_usuario');
+        $this->view('registro_usuario');
     }
 
     public function registrar(){
